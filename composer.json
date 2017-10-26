@@ -3,7 +3,7 @@
   "type": "drupal-profile",
   "description": "Commerce 2.x installation profile",
   "homepage": "https://github.com/drupalcommerce/commerce_base",
-  "license": "GPL-2.0+"
+  "license": "GPL-2.0+",
   "require": {
       "drupal/admin_toolbar": "~1.0",
       "drupal/swiftmailer": "~1.0",
